@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course pedagogy, written by
+  professor Robert Rines.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Pedagogy
@@ -11,7 +13,7 @@ Course Pedagogy by Robert Rines
 
 In the leap from my undergraduate Institute-wide elective course on Inventions and Patents (6.901, 3.172 and 1.652) to the graduate course (6.931) on the development of inventions and creative ideas into commercialization, I have challenged my students to concern themselves with problem areas of their own personal interests, and to do original research anent to submitting analysis and thinking for class discussion, leading to creating practical proposals for possibly addressing these problems.
 
-In _Create or Perish: The Case for Inventions and Patents_ (downloadable textbook in [readings]({{< baseurl >}}/pages/readings)) there is presented a view of the U.S. patent system in trouble from the 1950s on, struggling to be meaningful in the United States under a then generally hostile environment sanctioned by the federal courts that, indeed, came to question whether patents were really any longer needed to encourage invention.
+In _Create or Perish: The Case for Inventions and Patents_ (downloadable textbook in {{% resource_link c2f447a0-471d-1b9b-993d-138d2819f450 "readings" %}}) there is presented a view of the U.S. patent system in trouble from the 1950s on, struggling to be meaningful in the United States under a then generally hostile environment sanctioned by the federal courts that, indeed, came to question whether patents were really any longer needed to encourage invention.
 
 This led to the encouragement of wide spread infringement, and opening up our technology to Japan and Europe, and led to a waning interest in the utility of a U.S. patent system. This created a growingly impossible climate for the independent inventor—that prodigious group which accounts for much of our breakthrough invention.
 
