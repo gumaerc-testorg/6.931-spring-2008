@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Cover and introduction to the course textbook: Create or Perish.'
 file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/9cfc718373572d088ae928ac0dfdc6e1_introduction.pdf
+file_size: 309319
 file_type: application/pdf
 learning_resource_types:
 - Readings
