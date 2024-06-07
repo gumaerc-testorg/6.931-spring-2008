@@ -2,6 +2,7 @@
 content_type: resource
 description: Chapter 3 of the course text on patent law.
 file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/d2a8df860fdc374069144a8d419f9d55_chapter3.pdf
+file_size: 533786
 file_type: application/pdf
 learning_resource_types:
 - Readings
