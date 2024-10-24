@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading and article review assignment.
-file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/a632c909c57581f43742ae299aed86e9_assign04.pdf
+file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/a632c909c57581f43742ae299aed86e9_assign04.pdf
 file_size: 163361
 file_type: application/pdf
 learning_resource_types:
