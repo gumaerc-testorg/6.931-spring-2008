@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: In-class presentation assignment.
-file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/766e3ff7db5deb5356fddd6f5280b649_assign06.pdf
+file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/766e3ff7db5deb5356fddd6f5280b649_assign06.pdf
 file_size: 160122
 file_type: application/pdf
 learning_resource_types:
