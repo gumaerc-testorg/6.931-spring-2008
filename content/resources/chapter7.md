@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 7 of the course text on the modernization of patent systems.
-file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/d6755a2f74ce732537de4e5e43e91b25_chapter7.pdf
+file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/d6755a2f74ce732537de4e5e43e91b25_chapter7.pdf
 file_size: 347423
 file_type: application/pdf
 learning_resource_types:

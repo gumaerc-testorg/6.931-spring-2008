@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter 8 of the course text on court modernization for aiding the patent
   system and the law, in general.
-file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/edd18abbb33fbf59ff8e48a34e0cb853_chapter8.pdf
+file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/edd18abbb33fbf59ff8e48a34e0cb853_chapter8.pdf
 file_size: 269624
 file_type: application/pdf
 learning_resource_types:
