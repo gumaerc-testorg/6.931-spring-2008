@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter 5 of the course text on the rights, obligations, and problems
   of inventors (employee-employer relations).
-file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/f9414c670c87a620c9872504368c4160_chapter5.pdf
+file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/f9414c670c87a620c9872504368c4160_chapter5.pdf
 file_size: 667562
 file_type: application/pdf
 learning_resource_types:
