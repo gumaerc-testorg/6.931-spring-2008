@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chapter 9 of the course text on a formula for economic decline.
-file: /courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/dde6802eafe80224a0aa10b61b2d5ab5_chapter9.pdf
+file: /ol-ocw-studio-app/courses/6-931-development-of-inventions-and-creative-ideas-spring-2008/dde6802eafe80224a0aa10b61b2d5ab5_chapter9.pdf
 file_size: 218255
 file_type: application/pdf
 learning_resource_types:
